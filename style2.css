@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.last-work{
+    margin-top: 0px;
+    margin-left: 200px;
+    width: fit-content;
+}
+#last-img{
+    margin-right: 50px;
+
+}
+marquee{
+    font-size: 30px;
+}
